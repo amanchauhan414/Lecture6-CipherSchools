@@ -1,0 +1,57 @@
+body{
+    /* text-align: justify; */
+    /* background-image: linear-gradient(yellow,green); */
+    /* background-repeat: no-repeat; */
+    /* background-image: linear-gradient(to bottom right, red, blue); */
+    /* background-repeat: space; */
+    /* background-image: linear-gradient(90deg, orange, red); */
+}
+
+p{
+    outline-color: black;
+    /* text-decoration: underline; */
+    /* text-decoration: line-through; */
+    /* text-transform: capitalize; */
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    /* text-indent: 20px; */
+    /* letter-spacing: 3px; */
+    /* word-spacing: 20px; */
+    text-shadow: 1px 1px 1px red;
+    /* z-index: -1; */
+
+
+    /* line-height: 1.8; */
+
+
+    /* direction: rtl; */
+    /* unicode-bidi: bidi-override; */
+
+}
+p.solid{
+    /* outline-style: solid; */
+    /* outline-width: 10px; */
+}
+/* a{
+    text-decoration: none;
+    color: black;
+} */
+
+#one{
+    color: red;
+}
+
+#two{
+    color: pink;
+}
+
+h1{
+    text-shadow: 2px 2px red;
+    /* font-family: 'Tangerine', serif;
+    font-style: italic; */
+
+    /* font: 20px Arial, sans-serif; */
+    /* font: italic bold Arial; */
+}
+
+
